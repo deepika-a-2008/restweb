@@ -92,8 +92,8 @@ home.html
   </footer>
 </body>
 </html>
-
-
+```
+```
 menu.html
 
 <!DOCTYPE html>
@@ -184,8 +184,8 @@ menu.html
   </footer>
 </body>
 </html>
-
-
+```
+```
 admin.html
 
 <!DOCTYPE html>
@@ -221,7 +221,8 @@ admin.html
   </footer>
 </body>
 </html>
-
+```
+```
 contact.html
 
 <!DOCTYPE html>
